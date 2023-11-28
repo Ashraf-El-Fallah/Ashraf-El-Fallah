@@ -12,7 +12,7 @@
 </p>
 
 ## :woman_technologist: &nbsp;About Me :
-- 🔭 At present, I am focused on enhancing my knowledge and abilities related to Android..
+- 🔭 At present, I am focused on enhancing my knowledge and abilities related to Android.
 - 👯 My goal is to secure a full-time position as an Android developer.
 - 💬 Ask me about Kotlin and Android development.
 - 📫 How to reach me: elfallahashraf44@gmail.com
