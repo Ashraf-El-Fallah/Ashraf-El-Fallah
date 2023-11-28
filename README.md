@@ -8,6 +8,12 @@
 <a href="https://t.me/Ashraf_El_Fallah" title="telegram"><img src="https://img.shields.io/badge/telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
+## About Me:
+- 🔭 At present, I am focused on enhancing my knowledge and abilities related to Android..
+- 👯 My goal is to secure a full-time position as an Android developer.
+- 💬 Ask me about Kotlin and Android development.
+- 📫 How to reach me: elfallahashraf44@gmail.com
+
 ## 🛠 Tech Stack
 <br>
 <p align="center">
