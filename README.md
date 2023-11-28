@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="400"/>
+</div>
 <h1 align="center">Hello 👋, I'm Ashraf</h1>
 <h3 align="center">A passionate Android developer from Egypt</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ashraf-El-Fallah&label=Profile%20views&color=0e75b6&style=flat" alt="Ashraf-El-Fallah"/>
