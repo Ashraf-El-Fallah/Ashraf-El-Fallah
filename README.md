@@ -8,7 +8,7 @@
 <a href="https://t.me/Ashraf_El_Fallah" title="telegram"><img src="https://img.shields.io/badge/telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
-## About Me:
+## :woman_technologist: &nbsp;About Me :
 - 🔭 At present, I am focused on enhancing my knowledge and abilities related to Android..
 - 👯 My goal is to secure a full-time position as an Android developer.
 - 💬 Ask me about Kotlin and Android development.
@@ -23,6 +23,8 @@
 <a href="" title="JAVA"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA"></a>
 <a href="" title="Kotlin"><img src="https://img.shields.io/badge/kotlin-BE93D4?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
 <a href="" title="Postman"><img src="https://img.shields.io/badge/Postman-ED8B00?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
+<a href="" title="Android"><img src="https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=Android&logoColor="green" alt="Android"></a>
+<a href="" title="C++"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
 </p>
 
 ## 📊 My Github Stats
