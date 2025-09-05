@@ -29,7 +29,7 @@
 Recent **Computer Science graduate** from Mansoura University with a strong foundation in **Android development** and software engineering.
 
 - 🔭 **Currently working on:** Advanced Android applications using Kotlin & Jetpack Compose
-- 🌱 **Currently learning:** Legact Android Development and Flutter
+- 🌱 **Currently learning:** Legacy Android Development and Flutter
 - 💼 **Looking for:** Full-time Android Developer opportunities
 - 💬 **Ask me about:** Kotlin, Android development, MVVM architecture, Jetpack libraries
 - 🎓 **Education:** BS in Computer Science, Mansoura University (2020-2024)
