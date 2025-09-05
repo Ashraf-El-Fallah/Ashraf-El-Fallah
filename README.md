@@ -1,67 +1,136 @@
-<div id="header" align="center">
+# Hello, I'm Ashraf Abd El-Monem 👋
+
+<div align="center">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="400"/>
 </div>
-<h1 align="center">Hello 👋, I'm Ashraf</h1>
-<h3 align="center">A passionate Android developer from Egypt</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ashraf-El-Fallah&label=Profile%20views&color=0e75b6&style=flat" alt="Ashraf-El-Fallah"/>
-  
+
 <p align="center">
-<a href="mailto:elfallahashraf44@gmail.com"title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-<a href="https://www.linkedin.com/in/ashraf-el-fallah-080204234/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://t.me/Ashraf_El_Fallah" title="telegram"><img src="https://img.shields.io/badge/telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <strong>Android Developer | Computer Science Graduate | Passionate about Mobile Development</strong>
 </p>
 
-## :woman_technologist: &nbsp;About Me :
-- 🔭 At present, I am focused on enhancing my knowledge and abilities related to Android.
-- 👯 My goal is to secure a full-time position as an Android developer.
-- 💬 Ask me about Kotlin and Android development.
-- 📫 How to reach me: elfallahashraf44@gmail.com
-
-## 🛠 Tech Stack
-<br>
 <p align="center">
-<a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-<a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://developer.android.com/studio" title="Android Studio"><img src="https://img.shields.io/badge/android%20Studio-%23999120.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio "></a>
-<a href="" title="JAVA"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA"></a>
-<a href="" title="Kotlin"><img src="https://img.shields.io/badge/kotlin-BE93D4?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
-<a href="" title="Postman"><img src="https://img.shields.io/badge/Postman-ED8B00?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
-<a href="" title="Android"><img src="https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=Android&logoColor="green" alt="Android"></a>
-<a href="" title="C++"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
+  <img src="https://komarev.com/ghpvc/?username=Ashraf-El-Fallah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
-## 📊 My Github Stats
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Ashraf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ashraf-El-Fallah&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+  <a href="mailto:elfallahashraf44@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ashraf-el-fallah-080204234/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/Ashraf_El_Fallah" title="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashraf-El-Fallah&theme=tokyonight_duo" alt="Ashraf-El-Fallah"/>
-</p>
+## 🚀 About Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ashraf-El-Fallah&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+Recent **Computer Science graduate** from Mansoura University with a strong foundation in **Android development** and software engineering.
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ashraf-El-Fallah&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+- 🔭 **Currently working on:** Advanced Android applications using Kotlin & Jetpack Compose
+- 🌱 **Currently learning:** Legact Android Development and Flutter
+- 💼 **Looking for:** Full-time Android Developer opportunities
+- 💬 **Ask me about:** Kotlin, Android development, MVVM architecture, Jetpack libraries
+- 🎓 **Education:** BS in Computer Science, Mansoura University (2020-2024)
+- 📍 **Location:** Egypt
 
-<!--
-//most used languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashraf-El-Fallah&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Ashraf-El-Fallah" height="200px"/>
-</p>
--->
+## 💼 Professional Experience
 
-<!--**Ashraf-El-Fallah/Ashraf-El-Fallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏢 Android Developer Intern - The Chance (Remote)
+**April 2024 - Present**
+- Building and enhancing Android applications using **Kotlin** with **Jetpack Compose** and **XML**
+- Applying **MVVM architecture** and **SOLID principles** for maintainable, scalable code
+- Implementing modern Android libraries: **Room**, **Retrofit**, **Navigation Component**, **Coroutines**
+- Practicing **unit testing** and **debugging** for high-quality applications
+- Collaborating in **team-based development** with real industry workflows
+
+### 🎓 Leadership & Community Involvement
+- **Computer Science Team Member** - CAT Reloaded Team, Mansoura University
+- **PR Team Member** - CIS Team, Mansoura University  
+- **Logistics Team Member** - CAT Reloaded Team
+
+## 🛠️ Technical Skills
+
+### 📱 Mobile Development
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+
+### 🏗️ Architecture & Patterns
+- **MVVM Architecture**
+- **MVI Pattern**
+- **Clean Code Principles**
+- **SOLID Principles**
+- **Object-Oriented Programming**
+
+### 🔧 Android Libraries & Tools
+- **UI:** Jetpack Compose, XML Layouts, View Binding
+- **Database:** Room Database
+- **Networking:** Retrofit, Ktor
+- **Dependency Injection:** Dagger Hilt, Koin
+- **Async Programming:** Coroutines, LiveData, Flows
+- **Testing:** JUnit, Mockk, Truth
+- **Image Loading:** Glide
+- **Local Storage:** DataStore
+
+### ⚙️ Development Tools
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 📱 Featured Projects
+
+### 🎬 CineVerse App
+**Team Collaboration | 10+ Contributors**
+- **Tech Stack:** Kotlin, Jetpack Compose, MVVM Architecture
+- **Achievements:** 
+  - Implemented 50+ UI components with modern design patterns
+  - Contributed to Domain/Data layers following clean architecture
+  - Set up CI/CD pipelines with Firebase App Distribution
+  - **78 commits** with 12,000+ lines of code contribution
+- **Role:** Core contributor in architecture decisions and code reviews
+
+### 📚 Tudee App
+**Educational Platform**
+- **Tech Stack:** Jetpack Compose, Room Database
+- **Contributions:**
+  - Developed reusable UI components following design system
+  - Implemented offline data persistence with Room
+
+### 🦷 Dentella (Graduation Project)
+**Solo Development | Full-Stack Mobile App**
+- **Tech Stack:** Kotlin, XML, MVVM, Room, Retrofit, Dagger Hilt
+- **Features:**
+  - Complete dental clinic management system
+  - Modern UI with efficient navigation
+  - Image handling and caching optimization
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashraf-El-Fallah&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashraf-El-Fallah&layout=compact&theme=tokyonight&langs_count=8" height="180px"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashraf-El-Fallah&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashraf-El-Fallah&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4"/>
+</div>
+
+## 🔝 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=Ashraf-El-Fallah&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+## 🤝 Let's Connect!
+
+I'm always open to discussing Android development, sharing knowledge, and exploring collaboration opportunities. Whether you want to chat about the latest Android trends, review code, or discuss potential projects, feel free to reach out!
+
+**Available for:** Full-time Android Developer positions, freelance projects, and open-source contributions.
