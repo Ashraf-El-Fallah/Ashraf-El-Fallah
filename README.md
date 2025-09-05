@@ -22,6 +22,9 @@
   <a href="https://t.me/Ashraf_El_Fallah" title="Telegram">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+    <a href="https://drive.google.com/drive/folders/14q9mimhZbz6mFU5flQWZS9aO29WsfX0g" title="CV">
+    <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
 </p>
 
 ## 🚀 About Me
