@@ -38,7 +38,7 @@ Recent **Computer Science graduate** from Mansoura University with a strong foun
 ## 💼 Professional Experience
 
 ### 🏢 Android Developer Intern - The Chance (Remote)
-**April 2024 - Present**
+**April 2025 - Present**
 - Building and enhancing Android applications using **Kotlin** with **Jetpack Compose** and **XML**
 - Applying **MVVM architecture** and **SOLID principles** for maintainable, scalable code
 - Implementing modern Android libraries: **Room**, **Retrofit**, **Navigation Component**, **Coroutines**
@@ -94,19 +94,18 @@ Recent **Computer Science graduate** from Mansoura University with a strong foun
 - **Role:** Core contributor in architecture decisions and code reviews
 
 ### 📚 Tudee App
-**Educational Platform**
+**ToDo App**
 - **Tech Stack:** Jetpack Compose, Room Database
 - **Contributions:**
   - Developed reusable UI components following design system
   - Implemented offline data persistence with Room
 
 ### 🦷 Dentella (Graduation Project)
-**Solo Development | Full-Stack Mobile App**
 - **Tech Stack:** Kotlin, XML, MVVM, Room, Retrofit, Dagger Hilt
 - **Features:**
-  - Complete dental clinic management system
-  - Modern UI with efficient navigation
-  - Image handling and caching optimization
+  - Assist dentistry students in gaining practical experience by connecting them with patients.
+  - Help patients who cannot afford professional dental care to find affordable or free treatment options.
+  - Provide users with valuable information on dental health through articles.
 
 ## 📊 GitHub Statistics
 
