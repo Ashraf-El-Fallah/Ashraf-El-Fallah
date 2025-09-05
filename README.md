@@ -72,7 +72,7 @@ Recent **Computer Science graduate** from Mansoura University with a strong foun
 - **Dependency Injection:** Dagger Hilt, Koin
 - **Async Programming:** Coroutines, LiveData, Flows
 - **Testing:** JUnit, Mockk, Truth
-- **Image Loading:** Glide,coil
+- **Image Loading:** Glide, Coil
 - **Local Storage:** DataStore
 
 ### ⚙️ Development Tools
